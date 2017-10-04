@@ -1,6 +1,11 @@
 # pl
 Website Navigation Index
-一心理：   http://www.xinli001.com/
+<p> </P>
+<p>一心理：   http://www.xinli001.com/</p>
+<p>豆瓣浏览发现 ：https://www.douban.com/explore/</p>
+<p> 简书 ：http://www.jianshu.com/</P>
+<p> 天涯焦点：http://focus.tianya.cn/</P>
+<p>新浪博客首页： http://blog.sina.com.cn/</P>
 
 A Song
 
