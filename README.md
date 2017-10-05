@@ -9,6 +9,8 @@ Website Navigation Index
 A house 
 <p>Damon Empero ft. Veronica - Vacation </p>
 <p>https://www.youtube.com/watch?v=ALzvSPXmeh8 </p>
+<p>Kat DeLuna - Waves</p>
+<p>https://www.youtube.com/watch?v=TM2RbNzLooc</p>
 
 A Song
 <p>勇气-梁静茹</p>
