@@ -11,6 +11,8 @@ A house
 <p>https://www.youtube.com/watch?v=ALzvSPXmeh8 </p>
 <p>Kat DeLuna - Waves</p>
 <p>https://www.youtube.com/watch?v=TM2RbNzLooc</p>
+<p>Major Lazer Ft. Justin Bieber - Coldwater (OLYK Remix)</p>
+<p>https://www.youtube.com/watch?v=QpbwogqNglM</p>
 
 A Song
 <p>勇气-梁静茹</p>
